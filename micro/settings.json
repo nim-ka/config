@@ -1,0 +1,17 @@
+{
+    "ft:haskell": {
+        "tabsize": 2,
+        "tabstospaces": true
+    },
+    "ft:typescript": {
+        "tabsize": 2,
+        "tabstospaces": true
+    },
+    "ft:markdown": {
+        "softwrap": true
+    },
+    "lsp.server": "haskell=static-ls",
+    "lsp.tabcompletion": false,
+    "scrollspeed": 1,
+    "showchars": "itab=|,ispace=."
+}
